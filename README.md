@@ -62,7 +62,7 @@ It is important to note that, although most of the times the train loss curve sh
 
 ### Confusion Matrix
 
-A [confusion matrix](https://en.wikipedia.org/wiki/Confusion_matrix) summarizes the performance of the model in the classification problem. It provides the number of predicted labels that correspond with the actual labels, as well as the predicted labels that do not. If the numbers of falsely predicted labels is high, this indicates that something is wrong with the model (assuming the preprocessing of the data is done correctly).
+A [confusion matrix](https://en.wikipedia.org/wiki/Confusion_matrix) summarizes the performance of a model in the classification problem. It provides the number of predicted labels that correspond with the actual labels, as well as the predicted labels that do not. If the numbers of falsely predicted labels is high, this indicates that something is wrong with the model (assuming the preprocessing of the data is done correctly).
 
 ### F1-score
 
@@ -70,4 +70,4 @@ The [F1-score](https://en.wikipedia.org/wiki/F-score) is a measure of predictive
 
 ### ROC Curve
 
-The [ROC (Receiver Operating Characteristic) curve](https://en.wikipedia.org/wiki/Receiver_operating_characteristic), is a curve that compares the true positive rate (TPR) against the false positive rate (FPR). TPR could also be reffered to as "the probability of detection", while FPR could be reffered to as "the probability of false alarm".
+The [ROC (Receiver Operating Characteristic) curve](https://en.wikipedia.org/wiki/Receiver_operating_characteristic), is a curve that compares the True Positive Rate (TPR) against the False Positive Rate (FPR). TPR could also be reffered to as "the probability of detection", while FPR could be reffered to as "the probability of false alarm".
