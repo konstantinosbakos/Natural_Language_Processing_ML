@@ -3,9 +3,9 @@
 
 ## Summary
 
-This is a project that puts into use different machine learning methods with the goal to compare their efficiency in classifying reviews as good or bad. 
+This is a project that puts into use different machine learning methods with the goal to compare their efficiency in classifying reviews as positive or negative. 
 
-The reviews are contained in the `.csv` file found in the project and are either good (6-10) or bad (0-4), since the classification methods used, are binary. There are no reviews with a score of "5" in the dataset. The end product should be machine learning models that are capable of understanding if a review is positive or negative with high accuracy.
+The reviews are contained in the `.csv` file found in the project and are either positive (6-10) or negative (0-4), since the classification methods used, are binary. There are no reviews with a score of "5" in the dataset. The end product should be machine learning models that are capable of understanding if a review is positive or negative with high accuracy.
 
 ## Data Preprocessing
 
